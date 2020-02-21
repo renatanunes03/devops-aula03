@@ -1,4 +1,5 @@
 # devops-aula03
 Alice Braga
-Fernando Montenegro
+Daniel de Oliveria
 Sonia Braga 
+Sonia Braga
